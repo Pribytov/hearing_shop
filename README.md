@@ -1,7 +1,7 @@
 Проект интернет магазина слуховых аппаратов "Альфа слух"
 
 Проект доступен по адресу:
-  http://elmo.p-host.in/
+ http://elmo.p-host.in/hearing/index.html
 
 ![Image text](https://github.com/Pribytov/hearing_shop/blob/main/bernafon1.png)
 
