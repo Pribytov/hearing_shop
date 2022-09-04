@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hearing_shop/static/css/main.ce326436.css",
+    "main.js": "/hearing_shop/static/js/main.2d61c350.js",
+    "static/media/bernafon1.png": "/hearing_shop/static/media/bernafon1.0dc4cefa32436046f570.png",
+    "index.html": "/hearing_shop/index.html",
+    "main.ce326436.css.map": "/hearing_shop/static/css/main.ce326436.css.map",
+    "main.2d61c350.js.map": "/hearing_shop/static/js/main.2d61c350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce326436.css",
+    "static/js/main.2d61c350.js"
+  ]
+}
